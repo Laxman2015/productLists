@@ -53,21 +53,21 @@
   {
       "id": 8,
       "name": "Sour Puss Raspberry",
-      "price": 134.99,
+      "price": 34.99,
       "star": 4,
       "url": "https://picsum.photos/200/300"
   },
   {
       "id": 9,
       "name": "Pork - Chop, Frenched",
-      "price": 199.16,
+      "price": 189.99,
       "star": 4,
       "url": "https://picsum.photos/200/300"
   },
   {
       "id": 10,
       "name": "Game Bagels Poppyseed",
-      "price": "123.82",
+      "price": "323.82",
       "star": 4,
       "url": "https://picsum.photos/200/300"
   }
@@ -75,7 +75,7 @@
   {
       "id": 11,
       "name": "Toys Bagels Poppyseed",
-      "price": "123.82",
+      "price": "423.82",
       "star": 4,
       "url": "https://picsum.photos/200/300"
   }
@@ -83,7 +83,7 @@
   {
       "id": 12,
       "name": "Bagels Poppyseed",
-      "price": "123.82",
+      "price": "23.82",
       "star": 4,
       "url": "https://picsum.photos/200/300"
   }
@@ -91,7 +91,7 @@
   {
       "id": 13,
       "name": "Pest Bagels Poppyseed",
-      "price": "123.82",
+      "price": "143.02",
       "star": 1,
       "url": "https://picsum.photos/200/300"
   }
@@ -99,7 +99,7 @@
   {
       "id": 14,
       "name": "Bagels nails Poppyseed",
-      "price": "123.82",
+      "price": "13.91",
       "star": 4,
       "url": "https://picsum.photos/200/300"
   }
@@ -107,7 +107,7 @@
   {
       "id": 15,
       "name": "Bagels cream Poppyseed",
-      "price": "123.82",
+      "price": "53.12",
       "star": 2,
       "url": "https://picsum.photos/200/300"
   }
@@ -115,7 +115,7 @@
   {
       "id": 16,
       "name": "Bagels body Poppyseed",
-      "price": "123.82",
+      "price": "99.80",
       "star": 5,
       "url": "https://picsum.photos/200/300"
   }
